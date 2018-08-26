@@ -3,7 +3,7 @@
 #### By **{Obadiah Burugu}**
 
 ## Description
-{Here is how this game works }
+https://oburugu.github.io/pig-dice 
 
 
 
