@@ -6,25 +6,6 @@
 {Here is how this game works }
 
 
-Behavior                                |  Input                                              |         Outcome
-----------------------------------------------------------------------------------------------------------------------------
-Player 1 and Player 2 inputs names      |Player 1 name; Kazungu   Player 2 name: Jean         | Game feeds in information
------------------------------------------------------------------------------------------------------------------------------
-Player 1 clicks roll button             |Click roll button                                    | Dice roll and number is generated
------------------------------------------------------------------------------------------------------------------------------
-If player 1 rolls any other number other| Roll=2                                              |Round total=2
-than 1, that roll is added to the total |                                                     |
------------------------------------------------------------------------------------------------------------------------------
-If Player 1 rolls a 1, no score is added| Roll=1                                              |Round total = 2 / Total score = 2 / Player 2 begins
-and round for Player 1 ends	            |                                                     |
--------------------------------------------------------------------------------------------------------------------------------
-Repeat for Player 2                     |	Roll = 1                                            |Round total = 0 / Total score = 0 / Player 1 begins
---------------------------------------------------------------------------------------------------------------------------------
-When a player's total score reaches 100 | Player 1 total score = 100	                        | Winner page
-or more, game ends and winner page shows|                                                     |
---------------------------------------------------------------------------------------------------------------------------------
-
-## Run the webpage to start the game
 
 Technology used
 * CSS
